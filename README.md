@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zoe-icodice
-- 👀 I’m interested in kayaking, rafting and camping
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate with other FED developers
+- 💞️ I’m looking to collaborate with other FED developers and JS learners
 - 📫 How to reach me at zoe@education.icodice.com.
 
 <!---
